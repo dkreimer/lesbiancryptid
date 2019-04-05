@@ -1,4 +1,4 @@
-sleep 55s
+sleep 1m
 
 while true
 do
