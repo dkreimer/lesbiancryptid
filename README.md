@@ -22,8 +22,8 @@ Git commands that come in handy:
 
 - git log
   - Shows a log of commits with messages. Helpful if you can't remember what you or someone else last worked on
-------------------------------------
-More about Git can be found here: https://git-scm.com/book/en/v2
+
+- More about Git can be found here: https://git-scm.com/book/en/v2
 ------------------------------------
 
 WHEN FINISHED WITH CHANGES for the day/work session please do the following:
