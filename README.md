@@ -25,10 +25,10 @@ git log
 ------------------------------------
 
 WHEN FINISHED WITH CHANGES for the day/work session please do the following:
-$ git status
-$ git add .
-$ git commit -m "a description of what you changed"
-$ git push
+- git status
+- git add .
+- git commit -m "a description of what you changed"
+- git push
 
 WHEN STARTING for the day/work session please do the following:
-$ git pull
+- git pull
